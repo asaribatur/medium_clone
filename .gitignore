@@ -3,13 +3,3 @@
 
 #zip files
 *.zip
-
-#Licence file
-LICENCE
-
-# bootstrap standard css files
-**/css
-!css/medium.css
-
-# fontawesome standard files
-**/fontawesome
